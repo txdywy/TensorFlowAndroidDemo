@@ -1,1001 +1,1001 @@
-dummy
-kit fox
-English setter
-Siberian husky
-Australian terrier
-English springer
-grey whale
-lesser panda
-Egyptian cat
-ibex
-Persian cat
-cougar
-gazelle
-porcupine
-sea lion
-malamute
-badger
-Great Dane
-Walker hound
-Welsh springer spaniel
-whippet
-Scottish deerhound
-killer whale
-mink
-African elephant
-Weimaraner
-soft-coated wheaten terrier
-Dandie Dinmont
-red wolf
-Old English sheepdog
-jaguar
-otterhound
-bloodhound
-Airedale
-hyena
-meerkat
-giant schnauzer
-titi
-three-toed sloth
-sorrel
-black-footed ferret
-dalmatian
-black-and-tan coonhound
-papillon
-skunk
-Staffordshire bullterrier
-Mexican hairless
-Bouvier des Flandres
-weasel
-miniature poodle
-Cardigan
-malinois
-bighorn
-fox squirrel
-colobus
-tiger cat
-Lhasa
-impala
-coyote
-Yorkshire terrier
-Newfoundland
-brown bear
-red fox
-Norwegian elkhound
-Rottweiler
-hartebeest
-Saluki
-grey fox
-schipperke
-Pekinese
-Brabancon griffon
-West Highland white terrier
-Sealyham terrier
-guenon
-mongoose
-indri
-tiger
-Irish wolfhound
-wild boar
-EntleBucher
-zebra
-ram
-French bulldog
-orangutan
-basenji
-leopard
-Bernese mountain dog
-Maltese dog
-Norfolk terrier
-toy terrier
-vizsla
-cairn
-squirrel monkey
-groenendael
-clumber
-Siamese cat
-chimpanzee
-komondor
-Afghan hound
-Japanese spaniel
-proboscis monkey
-guinea pig
-white wolf
-ice bear
-gorilla
-borzoi
-toy poodle
-Kerry blue terrier
-ox
-Scotch terrier
-Tibetan mastiff
-spider monkey
-Doberman
-Boston bull
-Greater Swiss Mountain dog
-Appenzeller
-Shih-Tzu
-Irish water spaniel
-Pomeranian
-Bedlington terrier
-warthog
-Arabian camel
-siamang
-miniature schnauzer
-collie
-golden retriever
-Irish terrier
-affenpinscher
-Border collie
-hare
-boxer
-silky terrier
-beagle
-Leonberg
-German short-haired pointer
-patas
-dhole
-baboon
-macaque
-Chesapeake Bay retriever
-bull mastiff
-kuvasz
-capuchin
-pug
-curly-coated retriever
-Norwich terrier
-flat-coated retriever
-hog
-keeshond
-Eskimo dog
-Brittany spaniel
-standard poodle
-Lakeland terrier
-snow leopard
-Gordon setter
-dingo
-standard schnauzer
-hamster
-Tibetan terrier
-Arctic fox
-wire-haired fox terrier
-basset
-water buffalo
-American black bear
-Angora
-bison
-howler monkey
-hippopotamus
-chow
-giant panda
-American Staffordshire terrier
-Shetland sheepdog
-Great Pyrenees
-Chihuahua
-tabby
-marmoset
-Labrador retriever
-Saint Bernard
-armadillo
-Samoyed
-bluetick
-redbone
-polecat
-marmot
-kelpie
-gibbon
-llama
-miniature pinscher
-wood rabbit
-Italian greyhound
-lion
-cocker spaniel
-Irish setter
-dugong
-Indian elephant
-beaver
-Sussex spaniel
-Pembroke
-Blenheim spaniel
-Madagascar cat
-Rhodesian ridgeback
-lynx
-African hunting dog
-langur
-Ibizan hound
-timber wolf
-cheetah
-English foxhound
-briard
-sloth bear
-Border terrier
-German shepherd
-otter
-koala
-tusker
-echidna
-wallaby
-platypus
-wombat
-revolver
-umbrella
-schooner
-soccer ball
-accordion
-ant
-starfish
-chambered nautilus
-grand piano
-laptop
-strawberry
-airliner
-warplane
-airship
-balloon
-space shuttle
-fireboat
-gondola
-speedboat
-lifeboat
-canoe
-yawl
-catamaran
-trimaran
-container ship
-liner
-pirate
-aircraft carrier
-submarine
-wreck
-half track
-tank
-missile
-bobsled
-dogsled
-bicycle-built-for-two
-mountain bike
-freight car
-passenger car
-barrow
-shopping cart
-motor scooter
-forklift
-electric locomotive
-steam locomotive
-amphibian
-ambulance
-beach wagon
-cab
-convertible
-jeep
-limousine
-minivan
-Model T
-racer
-sports car
-go-kart
-golfcart
-moped
-snowplow
-fire engine
-garbage truck
-pickup
-tow truck
-trailer truck
-moving van
-police van
-recreational vehicle
-streetcar
-snowmobile
-tractor
-mobile home
-tricycle
-unicycle
-horse cart
-jinrikisha
-oxcart
-bassinet
-cradle
-crib
-four-poster
-bookcase
-china cabinet
-medicine chest
-chiffonier
-table lamp
-file
-park bench
-barber chair
-throne
-folding chair
-rocking chair
-studio couch
-toilet seat
-desk
-pool table
-dining table
-entertainment center
-wardrobe
-Granny Smith
-orange
-lemon
-fig
-pineapple
-banana
-jackfruit
-custard apple
-pomegranate
-acorn
-hip
-ear
-rapeseed
-corn
-buckeye
-organ
-upright
-chime
-drum
-gong
-maraca
-marimba
-steel drum
-banjo
-cello
-violin
-harp
-acoustic guitar
-electric guitar
-cornet
-French horn
-trombone
-harmonica
-ocarina
-panpipe
-bassoon
-oboe
-sax
-flute
-daisy
-yellow lady's slipper
-cliff
-valley
-alp
-volcano
-promontory
-sandbar
-coral reef
-lakeside
-seashore
-geyser
-hatchet
-cleaver
-letter opener
-plane
-power drill
-lawn mower
-hammer
-corkscrew
-can opener
-plunger
-screwdriver
-shovel
-plow
-chain saw
-cock
-hen
-ostrich
-brambling
-goldfinch
-house finch
-junco
-indigo bunting
-robin
-bulbul
-jay
-magpie
-chickadee
-water ouzel
-kite
-bald eagle
-vulture
-great grey owl
-black grouse
-ptarmigan
-ruffed grouse
-prairie chicken
-peacock
-quail
-partridge
-African grey
-macaw
-sulphur-crested cockatoo
-lorikeet
-coucal
-bee eater
-hornbill
-hummingbird
-jacamar
-toucan
-drake
-red-breasted merganser
-goose
-black swan
-white stork
-black stork
-spoonbill
-flamingo
-American egret
-little blue heron
-bittern
-crane
-limpkin
-American coot
-bustard
-ruddy turnstone
-red-backed sandpiper
-redshank
-dowitcher
-oystercatcher
-European gallinule
-pelican
-king penguin
-albatross
-great white shark
-tiger shark
-hammerhead
-electric ray
-stingray
-barracouta
-coho
-tench
-goldfish
-eel
-rock beauty
-anemone fish
-lionfish
-puffer
-sturgeon
-gar
-loggerhead
-leatherback turtle
-mud turtle
-terrapin
-box turtle
-banded gecko
-common iguana
-American chameleon
-whiptail
-agama
-frilled lizard
-alligator lizard
-Gila monster
-green lizard
-African chameleon
-Komodo dragon
-triceratops
-African crocodile
-American alligator
-thunder snake
-ringneck snake
-hognose snake
-green snake
-king snake
-garter snake
-water snake
-vine snake
-night snake
-boa constrictor
-rock python
-Indian cobra
-green mamba
-sea snake
-horned viper
-diamondback
-sidewinder
-European fire salamander
-common newt
-eft
-spotted salamander
-axolotl
-bullfrog
-tree frog
-tailed frog
-whistle
-wing
-paintbrush
-hand blower
-oxygen mask
-snorkel
-loudspeaker
-microphone
-screen
-mouse
-electric fan
-oil filter
-strainer
-space heater
-stove
-guillotine
-barometer
-rule
-odometer
-scale
-analog clock
-digital clock
-wall clock
-hourglass
-sundial
-parking meter
-stopwatch
-digital watch
-stethoscope
-syringe
-magnetic compass
-binoculars
-projector
-sunglasses
-loupe
-radio telescope
-bow
-cannon [ground]
-assault rifle
-rifle
-projectile
-computer keyboard
-typewriter keyboard
-crane
-lighter
-abacus
-cash machine
-slide rule
-desktop computer
-hand-held computer
-notebook
-web site
-harvester
-thresher
-printer
-slot
-vending machine
-sewing machine
-joystick
-switch
-hook
-car wheel
-paddlewheel
-pinwheel
-potter's wheel
-gas pump
-carousel
-swing
-reel
-radiator
-puck
-hard disc
-sunglass
-pick
-car mirror
-solar dish
-remote control
-disk brake
-buckle
-hair slide
-knot
-combination lock
-padlock
-nail
-safety pin
-screw
-muzzle
-seat belt
-ski
-candle
-jack-o'-lantern
-spotlight
-torch
-neck brace
-pier
-tripod
-maypole
-mousetrap
-spider web
-trilobite
-harvestman
-scorpion
-black and gold garden spider
-barn spider
-garden spider
-black widow
-tarantula
-wolf spider
-tick
-centipede
-isopod
-Dungeness crab
-rock crab
-fiddler crab
-king crab
-American lobster
-spiny lobster
-crayfish
-hermit crab
-tiger beetle
-ladybug
-ground beetle
-long-horned beetle
-leaf beetle
-dung beetle
-rhinoceros beetle
-weevil
-fly
-bee
-grasshopper
-cricket
-walking stick
-cockroach
-mantis
-cicada
-leafhopper
-lacewing
-dragonfly
-damselfly
-admiral
-ringlet
-monarch
-cabbage butterfly
-sulphur butterfly
-lycaenid
-jellyfish
-sea anemone
-brain coral
-flatworm
-nematode
-conch
-snail
-slug
-sea slug
-chiton
-sea urchin
-sea cucumber
-iron
-espresso maker
-microwave
-Dutch oven
-rotisserie
-toaster
-waffle iron
-vacuum
-dishwasher
-refrigerator
-washer
-Crock Pot
-frying pan
-wok
-caldron
-coffeepot
-teapot
-spatula
-altar
-triumphal arch
-patio
-steel arch bridge
-suspension bridge
-viaduct
-barn
-greenhouse
-palace
-monastery
-library
-apiary
-boathouse
-church
-mosque
-stupa
-planetarium
-restaurant
-cinema
-home theater
-lumbermill
-coil
-obelisk
-totem pole
-castle
-prison
-grocery store
-bakery
-barbershop
-bookshop
-butcher shop
-confectionery
-shoe shop
-tobacco shop
-toyshop
-fountain
-cliff dwelling
-yurt
-dock
-brass
-megalith
-bannister
-breakwater
-dam
-chainlink fence
-picket fence
-worm fence
-stone wall
-grille
-sliding door
-turnstile
-mountain tent
-scoreboard
-honeycomb
-plate rack
-pedestal
-beacon
-mashed potato
-bell pepper
-head cabbage
-broccoli
-cauliflower
-zucchini
-spaghetti squash
-acorn squash
-butternut squash
-cucumber
-artichoke
-cardoon
-mushroom
-shower curtain
-jean
-carton
-handkerchief
-sandal
-ashcan
-safe
-plate
-necklace
-croquet ball
-fur coat
-thimble
-pajama
-running shoe
-cocktail shaker
-chest
-manhole cover
-modem
-tub
-tray
-balance beam
-bagel
-prayer rug
-kimono
-hot pot
-whiskey jug
-knee pad
-book jacket
-spindle
-ski mask
-beer bottle
-crash helmet
-bottlecap
-tile roof
-mask
-maillot
-Petri dish
-football helmet
-bathing cap
-teddy bear
-holster
-pop bottle
-photocopier
-vestment
-crossword puzzle
-golf ball
-trifle
-suit
-water tower
-feather boa
-cloak
-red wine
-drumstick
-shield
-Christmas stocking
-hoopskirt
-menu
-stage
-bonnet
-meat loaf
-baseball
-face powder
-scabbard
-sunscreen
-beer glass
-hen-of-the-woods
-guacamole
-lampshade
-wool
-hay
-bow tie
-mailbag
-water jug
-bucket
-dishrag
-soup bowl
-eggnog
-mortar
-trench coat
-paddle
-chain
-swab
-mixing bowl
-potpie
-wine bottle
-shoji
-bulletproof vest
-drilling platform
-binder
-cardigan
-sweatshirt
-pot
-birdhouse
-hamper
-ping-pong ball
-pencil box
-pay-phone
-consomme
-apron
-punching bag
-backpack
-groom
-bearskin
-pencil sharpener
-broom
-mosquito net
-abaya
-mortarboard
-poncho
-crutch
-Polaroid camera
-space bar
-cup
-racket
-traffic light
-quill
-radio
-dough
-cuirass
-military uniform
-lipstick
-shower cap
-monitor
-oscilloscope
-mitten
-brassiere
-French loaf
-vase
-milk can
-rugby ball
-paper towel
-earthstar
-envelope
-miniskirt
-cowboy hat
-trolleybus
-perfume
-bathtub
-hotdog
-coral fungus
-bullet train
-pillow
-toilet tissue
-cassette
-carpenter's kit
-ladle
-stinkhorn
-lotion
-hair spray
-academic gown
-dome
-crate
-wig
-burrito
-pill bottle
-chain mail
-theater curtain
-window shade
-barrel
-washbasin
-ballpoint
-basketball
-bath towel
-cowboy boot
-gown
-window screen
-agaric
-cellular telephone
-nipple
-barbell
-mailbox
-lab coat
-fire screen
-minibus
-packet
-maze
-pole
-horizontal bar
-sombrero
-pickelhaube
-rain barrel
-wallet
-cassette player
-comic book
-piggy bank
-street sign
-bell cote
-fountain pen
-Windsor tie
-volleyball
-overskirt
-sarong
-purse
-bolo tie
-bib
-parachute
-sleeping bag
-television
-swimming trunks
-measuring cup
-espresso
-pizza
-breastplate
-shopping basket
-wooden spoon
-saltshaker
-chocolate sauce
-ballplayer
-goblet
-gyromitra
-stretcher
-water bottle
-dial telephone
-soap dispenser
-jersey
-school bus
-jigsaw puzzle
-plastic bag
-reflex camera
-diaper
-Band Aid
-ice lolly
-velvet
-tennis ball
-gasmask
-doormat
-Loafer
-ice cream
-pretzel
-quilt
-maillot
-tape player
-clog
-iPod
-bolete
-scuba diver
-pitcher
-matchstick
-bikini
-sock
-CD player
-lens cap
-thatch
-vault
-beaker
-bubble
-cheeseburger
-parallel bars
-flagpole
-coffee mug
-rubber eraser
-stole
-carbonara
-dumbbell
+[dummy][这是啥？][0]
+[kit fox][小狐狸][1]
+[English setter][英语设定者][2]
+[Siberian husky][西伯利亚雪橇犬][3]
+[Australian terrier][澳大利亚梗][4]
+[English springer][英文春天][5]
+[grey whale][灰鲸][6]
+[lesser panda][小熊猫][7]
+[Egyptian cat][埃及猫][8]
+[ibex][山羊][9]
+[Persian cat][波斯猫][10]
+[cougar][美洲狮][11]
+[gazelle][羚羊][12]
+[porcupine][豪猪][13]
+[sea lion][海狮][14]
+[malamute][雪橇犬][15]
+[badger][獾][16]
+[Great Dane][大丹犬][17]
+[Walker hound][沃克猎犬][18]
+[Welsh springer spaniel][威尔士春天的猎犬][19]
+[whippet][惠比特犬][20]
+[Scottish deerhound][苏格兰猎鹿犬][21]
+[killer whale][逆戟鲸][22]
+[mink][貂][23]
+[African elephant][非洲大象][24]
+[Weimaraner][威马][25]
+[soft-coated wheaten terrier][软包皮小麦梗][26]
+[Dandie Dinmont][矮脚狄蒙梗][27]
+[red wolf][红狼][28]
+[Old English sheepdog][老英国牧羊犬][29]
+[jaguar][美洲虎][30]
+[otterhound][奥达猎犬][31]
+[bloodhound][警犬][32]
+[Airedale][万能][33]
+[hyena][鬣狗][34]
+[meerkat][猫鼬][35]
+[giant schnauzer][巨型雪纳瑞][36]
+[titi][蒂蒂][37]
+[three-toed sloth][三趾树懒][38]
+[sorrel][酢浆草][39]
+[black-footed ferret][黑脚鼬][40]
+[dalmatian][达尔马提亚][41]
+[black-and-tan coonhound][黑色和棕褐色的雄鹰][42]
+[papillon][巴比][43]
+[skunk][臭鼬][44]
+[Staffordshire bullterrier][牛头犬][45]
+[Mexican hairless][墨西哥无毛][46]
+[Bouvier des Flandres][佛兰德斯大道][47]
+[weasel][黄鼠狼][48]
+[miniature poodle][微型狮子狗][49]
+[Cardigan][羊毛衣][50]
+[malinois][马里努阿犬][51]
+[bighorn][大号角][52]
+[fox squirrel][狐狸松鼠][53]
+[colobus][疣][54]
+[tiger cat][老虎猫][55]
+[Lhasa][拉萨][56]
+[impala][黑斑羚][57]
+[coyote][郊狼][58]
+[Yorkshire terrier][约克夏犬][59]
+[Newfoundland][纽芬兰][60]
+[brown bear][棕熊][61]
+[red fox][红狐][62]
+[Norwegian elkhound][挪威猎麋犬][63]
+[Rottweiler][罗威][64]
+[hartebeest][麋羚][65]
+[Saluki][萨路基][66]
+[grey fox][灰狐狸][67]
+[schipperke][舒柏奇][68]
+[Pekinese][京巴][69]
+[Brabancon griffon][布鲁塞尔格林芬犬][70]
+[West Highland white terrier][西高地白梗][71]
+[Sealyham terrier][塞利亚犬][72]
+[guenon][长尾][73]
+[mongoose][猫鼬][74]
+[indri][大狐猴][75]
+[tiger][虎][76]
+[Irish wolfhound][爱尔兰狼犬][77]
+[wild boar][野猪][78]
+[EntleBucher][伯尔尼兹山地犬][79]
+[zebra][斑马][80]
+[ram][随机存取存储器][81]
+[French bulldog][法国斗牛犬][82]
+[orangutan][猩猩][83]
+[basenji][巴山基犬][84]
+[leopard][豹][85]
+[Bernese mountain dog][伯尔尼山狗][86]
+[Maltese dog][马耳他狗][87]
+[Norfolk terrier][诺福克犬][88]
+[toy terrier][玩具梗][89]
+[vizsla][维兹拉犬][90]
+[cairn][凯恩][91]
+[squirrel monkey][鼠猴][92]
+[groenendael][比利时牧羊狗][93]
+[clumber][克伦伯][94]
+[Siamese cat][暹罗猫][95]
+[chimpanzee][黑猩猩][96]
+[komondor][可蒙犬][97]
+[Afghan hound][阿富汗猎犬][98]
+[Japanese spaniel][日式西班牙猎犬][99]
+[proboscis monkey][长鼻猴][100]
+[guinea pig][豚鼠][101]
+[white wolf][白狼][102]
+[ice bear][冰熊][103]
+[gorilla][大猩猩][104]
+[borzoi][拉布拉多猎犬][105]
+[toy poodle][玩具狮子狗][106]
+[Kerry blue terrier][凯利蓝梗][107]
+[ox][牛][108]
+[Scotch terrier][苏格兰梗][109]
+[Tibetan mastiff][西藏獒][110]
+[spider monkey][蜘蛛猴][111]
+[Doberman][杜宾][112]
+[Boston bull][波士顿公牛][113]
+[Greater Swiss Mountain dog][大瑞士山狗][114]
+[Appenzeller][阿彭策尔][115]
+[Shih-Tzu][西施姿][116]
+[Irish water spaniel][爱尔兰的西班牙猎人][117]
+[Pomeranian][波美拉尼亚][118]
+[Bedlington terrier][贝灵顿犬][119]
+[warthog][疣猪][120]
+[Arabian camel][阿拉伯骆驼][121]
+[siamang][合趾猿][122]
+[miniature schnauzer][微型雪纳瑞][123]
+[collie][牧羊犬][124]
+[golden retriever][金毛猎犬][125]
+[Irish terrier][爱尔兰梗][126]
+[affenpinscher][猴梗][127]
+[Border collie][边境牧羊犬][128]
+[hare][野兔][129]
+[boxer][拳击手][130]
+[silky terrier][丝般的狗][131]
+[beagle][小猎犬][132]
+[Leonberg][莱昂贝格][133]
+[German short-haired pointer][德国短发指针][134]
+[patas][赤猴][135]
+[dhole][豺][136]
+[baboon][狒狒][137]
+[macaque][猕][138]
+[Chesapeake Bay retriever][切萨皮克湾猎犬][139]
+[bull mastiff][公牛大獒][140]
+[kuvasz][匈牙利库维斯犬][141]
+[capuchin][僧帽][142]
+[pug][泥料][143]
+[curly-coated retriever][卷曲的猎犬][144]
+[Norwich terrier][诺维奇梗][145]
+[flat-coated retriever][平面覆盖的猎犬][146]
+[hog][豕][147]
+[keeshond][荷兰狮毛犬][148]
+[Eskimo dog][爱斯基摩犬][149]
+[Brittany spaniel][布列塔尼猎犬][150]
+[standard poodle][标准狮子狗][151]
+[Lakeland terrier][莱克兰梗][152]
+[snow leopard][雪豹][153]
+[Gordon setter][戈登·安特勒][154]
+[dingo][野狗][155]
+[standard schnauzer][标准雪纳瑞][156]
+[hamster][仓鼠][157]
+[Tibetan terrier][西藏梗][158]
+[Arctic fox][白狐][159]
+[wire-haired fox terrier][丝毛狐狸梗][160]
+[basset][巴吉][161]
+[water buffalo][水牛][162]
+[American black bear][美国黑熊][163]
+[Angora][安哥拉][164]
+[bison][野牛][165]
+[howler monkey][嚎叫的猴子][166]
+[hippopotamus][河马][167]
+[chow][州城][168]
+[giant panda][大熊猫][169]
+[American Staffordshire terrier][美国斯塔福郡梗犬][170]
+[Shetland sheepdog][舍德兰牧羊犬][171]
+[Great Pyrenees][大比利牛斯][172]
+[Chihuahua][奇瓦瓦][173]
+[tabby][虎斑猫][174]
+[marmoset][狨猴][175]
+[Labrador retriever][拉布拉多猎犬][176]
+[Saint Bernard][圣伯纳德][177]
+[armadillo][犰狳][178]
+[Samoyed][萨摩耶][179]
+[bluetick][蓝色快狗][180]
+[redbone][美洲赤狗][181]
+[polecat][臭鼬][182]
+[marmot][旱獭][183]
+[kelpie][水鬼][184]
+[gibbon][长臂猿][185]
+[llama][骆驼][186]
+[miniature pinscher][迷你杜宾][187]
+[wood rabbit][木兔子][188]
+[Italian greyhound][意大利灵狮][189]
+[lion][狮子][190]
+[cocker spaniel][可卡犬][191]
+[Irish setter][爱尔兰人][192]
+[dugong][儒艮][193]
+[Indian elephant][印度大象][194]
+[beaver][海狸][195]
+[Sussex spaniel][苏塞克斯猎犬][196]
+[Pembroke][彭布罗克][197]
+[Blenheim spaniel][西班牙猎犬][198]
+[Madagascar cat][马达加斯加猫][199]
+[Rhodesian ridgeback][罗得西亚山脊][200]
+[lynx][猞猁][201]
+[African hunting dog][非洲狩猎犬][202]
+[langur][叶猴][203]
+[Ibizan hound][伊比赞猎犬][204]
+[timber wolf][大灰狼][205]
+[cheetah][猎豹][206]
+[English foxhound][英文狐猴][207]
+[briard][伯瑞犬][208]
+[sloth bear][懒熊][209]
+[Border terrier][边界梗][210]
+[German shepherd][德国牧羊犬][211]
+[otter][獭][212]
+[koala][考拉][213]
+[tusker][塔斯克][214]
+[echidna][针鼹][215]
+[wallaby][袋鼠][216]
+[platypus][鸭嘴兽][217]
+[wombat][袋熊][218]
+[revolver][左轮手枪][219]
+[umbrella][雨伞][220]
+[schooner][大篷车][221]
+[soccer ball][足球][222]
+[accordion][手风琴][223]
+[ant][蚂蚁][224]
+[starfish][海星][225]
+[chambered nautilus][葫芦鹦鹉][226]
+[grand piano][大钢琴][227]
+[laptop][笔记本电脑][228]
+[strawberry][草莓][229]
+[airliner][客机][230]
+[warplane][战机][231]
+[airship][飞艇][232]
+[balloon][气球][233]
+[space shuttle][航天飞机][234]
+[fireboat][消防艇][235]
+[gondola][贡多拉][236]
+[speedboat][快艇][237]
+[lifeboat][救生艇][238]
+[canoe][独木舟][239]
+[yawl][快艇][240]
+[catamaran][双体船][241]
+[trimaran][三体船][242]
+[container ship][集装箱船][243]
+[liner][衬垫][244]
+[pirate][海盗][245]
+[aircraft carrier][航空母舰][246]
+[submarine][潜艇][247]
+[wreck][殘骸][248]
+[half track][半轨][249]
+[tank][坦克][250]
+[missile][导弹][251]
+[bobsled][雪橇][252]
+[dogsled][狗拉雪橇][253]
+[bicycle-built-for-two][双人自行车][254]
+[mountain bike][山地自行车][255]
+[freight car][货车][256]
+[passenger car][客车][257]
+[barrow][独轮车][258]
+[shopping cart][购物车][259]
+[motor scooter][摩托车][260]
+[forklift][叉车][261]
+[electric locomotive][电力机车][262]
+[steam locomotive][蒸汽机车][263]
+[amphibian][两栖动物][264]
+[ambulance][救护车][265]
+[beach wagon][沙滩车][266]
+[cab][出租车][267]
+[convertible][可兑换][268]
+[jeep][吉普车][269]
+[limousine][豪华轿车][270]
+[minivan][面包车][271]
+[Model T][型号T][272]
+[racer][赛车][273]
+[sports car][跑车][274]
+[go-kart][卡丁车][275]
+[golfcart][高尔夫车][276]
+[moped][助力车][277]
+[snowplow][雪犁][278]
+[fire engine][消防车][279]
+[garbage truck][垃圾车][280]
+[pickup][捡起][281]
+[tow truck][拖车][282]
+[trailer truck][拖车卡车][283]
+[moving van][移动面包车][284]
+[police van][警车][285]
+[recreational vehicle][休闲车][286]
+[streetcar][电车][287]
+[snowmobile][雪地车][288]
+[tractor][拖拉机][289]
+[mobile home][移动回家][290]
+[tricycle][三轮车][291]
+[unicycle][独轮车][292]
+[horse cart][马车][293]
+[jinrikisha][黄包车][294]
+[oxcart][牛车][295]
+[bassinet][摇篮][296]
+[cradle][摇篮][297]
+[crib][婴儿床][298]
+[four-poster][四柱][299]
+[bookcase][书柜][300]
+[china cabinet][中国内阁][301]
+[medicine chest][医药箱][302]
+[chiffonier][小衣橱][303]
+[table lamp][台灯][304]
+[file][文件][305]
+[park bench][公园的长椅上][306]
+[barber chair][理发椅][307]
+[throne][王座][308]
+[folding chair][折叠椅][309]
+[rocking chair][摇椅][310]
+[studio couch][工作室沙发][311]
+[toilet seat][马桶座圈][312]
+[desk][台][313]
+[pool table][台球桌][314]
+[dining table][餐桌][315]
+[entertainment center][娱乐中心][316]
+[wardrobe][衣柜][317]
+[Granny Smith][澳洲青苹果][318]
+[orange][橙子][319]
+[lemon][柠檬][320]
+[fig][图][321]
+[pineapple][菠萝][322]
+[banana][香蕉][323]
+[jackfruit][菠萝蜜][324]
+[custard apple][乳蛋糕苹果][325]
+[pomegranate][石榴][326]
+[acorn][橡子][327]
+[hip][臀部][328]
+[ear][耳][329]
+[rapeseed][菜子][330]
+[corn][玉米][331]
+[buckeye][七叶树][332]
+[organ][器官][333]
+[upright][直立][334]
+[chime][钟][335]
+[drum][鼓][336]
+[gong][锣][337]
+[maraca][木魚][338]
+[marimba][木琴][339]
+[steel drum][钢鼓][340]
+[banjo][五弦琴][341]
+[cello][大提琴][342]
+[violin][小提琴][343]
+[harp][竖琴][344]
+[acoustic guitar][吉他][345]
+[electric guitar][电吉他][346]
+[cornet][短笛][347]
+[French horn][法国号角][348]
+[trombone][长号][349]
+[harmonica][口琴][350]
+[ocarina][奥卡利那笛][351]
+[panpipe][箫][352]
+[bassoon][巴松管][353]
+[oboe][双簧管][354]
+[sax][萨克斯][355]
+[flute][长笛][356]
+[daisy][雏菊][357]
+[yellow lady's slipper][黄色女士拖鞋][358]
+[cliff][悬崖][359]
+[valley][谷][360]
+[alp][岳][361]
+[volcano][火山][362]
+[promontory][海角][363]
+[sandbar][坝][364]
+[coral reef][珊瑚礁][365]
+[lakeside][湖边][366]
+[seashore][海滨][367]
+[geyser][喷泉][368]
+[hatchet][斧头][369]
+[cleaver][切肉刀][370]
+[letter opener][开信刀][371]
+[plane][平面][372]
+[power drill][电钻][373]
+[lawn mower][割草机][374]
+[hammer][锤子][375]
+[corkscrew][螺旋形的][376]
+[can opener][开罐器][377]
+[plunger][柱塞][378]
+[screwdriver][螺丝刀][379]
+[shovel][铲][380]
+[plow][犁][381]
+[chain saw][链锯][382]
+[cock][公鸡][383]
+[hen][母鸡][384]
+[ostrich][鸵鸟][385]
+[brambling][花鸡][386]
+[goldfinch][金翅雀][387]
+[house finch][房子雀][388]
+[junco][洪科][389]
+[indigo bunting][靛蓝旗布][390]
+[robin][知更鸟][391]
+[bulbul][夜莺][392]
+[jay][松鸦][393]
+[magpie][鹊][394]
+[chickadee][山雀][395]
+[water ouzel][河鸟][396]
+[kite][风筝][397]
+[bald eagle][白头鹰][398]
+[vulture][秃鹫][399]
+[great grey owl][伟大的灰色猫头鹰][400]
+[black grouse][黑松鸡][401]
+[ptarmigan][鹧鸪][402]
+[ruffed grouse][松鸡][403]
+[prairie chicken][草原鸡][404]
+[peacock][孔雀][405]
+[quail][鹌鹑][406]
+[partridge][鹧鸪][407]
+[African grey][非洲灰色][408]
+[macaw][金刚鹦鹉][409]
+[sulphur-crested cockatoo][硫冠鹦鹉][410]
+[lorikeet][吸蜜][411]
+[coucal][褐翅鸦鹃][412]
+[bee eater][蜜蜂][413]
+[hornbill][犀鸟][414]
+[hummingbird][蜂鸟][415]
+[jacamar][食鱼鸟][416]
+[toucan][巨嘴鸟][417]
+[drake][鸭][418]
+[red-breasted merganser][红胸衣][419]
+[goose][鹅][420]
+[black swan][黑天鹅][421]
+[white stork][白鹳][422]
+[black stork][黑鹳][423]
+[spoonbill][鹭][424]
+[flamingo][火烈鸟][425]
+[American egret][美国白鹭][426]
+[little blue heron][小蓝鹭][427]
+[bittern][卤水][428]
+[crane][起重机][429]
+[limpkin][秧鹤][430]
+[American coot][美国人][431]
+[bustard][鸨鸟][432]
+[ruddy turnstone][赤翻石鹬][433]
+[red-backed sandpiper][红背鹬][434]
+[redshank][赤足鹬][435]
+[dowitcher][长嘴半蹼鹬][436]
+[oystercatcher][蛎][437]
+[European gallinule][黑水鸡][438]
+[pelican][鹈][439]
+[king penguin][国王企鹅][440]
+[albatross][信天翁][441]
+[great white shark][大白鲨][442]
+[tiger shark][虎鲨][443]
+[hammerhead][锤头][444]
+[electric ray][电光][445]
+[stingray][黄貂鱼][446]
+[barracouta][蛇鲭][447]
+[coho][银鲑][448]
+[tench][丁鲷][449]
+[goldfish][金鱼][450]
+[eel][鳗鱼][451]
+[rock beauty][摇滚美人][452]
+[anemone fish][海葵鱼][453]
+[lionfish][狮子鱼][454]
+[puffer][河豚][455]
+[sturgeon][鲟][456]
+[gar][噶尔][457]
+[loggerhead][糊涂虫][458]
+[leatherback turtle][皮背龟][459]
+[mud turtle][泥龟][460]
+[terrapin][龟鳖][461]
+[box turtle][盒乌龟][462]
+[banded gecko][带状壁虎][463]
+[common iguana][普通鬣蜥][464]
+[American chameleon][美国变色龙][465]
+[whiptail][鞭尾][466]
+[agama][阿含][467]
+[frilled lizard][褶边蜥蜴][468]
+[alligator lizard][鳄鱼蜥蜴][469]
+[Gila monster][吉拉怪物][470]
+[green lizard][绿蜥蜴][471]
+[African chameleon][非洲变色龙][472]
+[Komodo dragon][科莫多巨蜥][473]
+[triceratops][三角龙][474]
+[African crocodile][非洲鳄鱼][475]
+[American alligator][美国鳄鱼][476]
+[thunder snake][雷蛇蛇][477]
+[ringneck snake][戒指蛇][478]
+[hognose snake][天鹅蛇][479]
+[green snake][绿蛇][480]
+[king snake][国王蛇][481]
+[garter snake][袜带蛇][482]
+[water snake][水蛇][483]
+[vine snake][藤蛇][484]
+[night snake][夜蛇][485]
+[boa constrictor][蟒蛇缩影][486]
+[rock python][岩石蟒蛇][487]
+[Indian cobra][印度眼镜蛇][488]
+[green mamba][绿色曼巴][489]
+[sea snake][海蛇][490]
+[horned viper][有角蛇毒][491]
+[diamondback][菱][492]
+[sidewinder][响尾蛇][493]
+[European fire salamander][欧洲火蝾螈][494]
+[common newt][普通蝾螈][495]
+[eft][鲵][496]
+[spotted salamander][斑点蝾螈][497]
+[axolotl][蝾螈][498]
+[bullfrog][牛蛙][499]
+[tree frog][树蛙][500]
+[tailed frog][尾巴青蛙][501]
+[whistle][哨][502]
+[wing][翅膀][503]
+[paintbrush][画笔][504]
+[hand blower][手风机][505]
+[oxygen mask][氧气面罩][506]
+[snorkel][浮潜][507]
+[loudspeaker][喇叭][508]
+[microphone][麦克风][509]
+[screen][屏幕][510]
+[mouse][老鼠][511]
+[electric fan][电扇][512]
+[oil filter][油过滤器][513]
+[strainer][过滤器][514]
+[space heater][小型供暖器][515]
+[stove][火炉][516]
+[guillotine][断头台][517]
+[barometer][晴雨表][518]
+[rule][规则][519]
+[odometer][里程表][520]
+[scale][规模][521]
+[analog clock][模拟时钟][522]
+[digital clock][数码时钟][523]
+[wall clock][挂钟][524]
+[hourglass][滴漏][525]
+[sundial][晷][526]
+[parking meter][停车收费表][527]
+[stopwatch][跑表][528]
+[digital watch][数码手表][529]
+[stethoscope][听筒][530]
+[syringe][注射器][531]
+[magnetic compass][磁罗盘][532]
+[binoculars][望远镜][533]
+[projector][放映机][534]
+[sunglasses][墨镜][535]
+[loupe][放大镜][536]
+[radio telescope][射电望远镜][537]
+[bow][弓][538]
+[cannon [ground]][大炮][539]
+[assault rifle][突击步枪][540]
+[rifle][步枪][541]
+[projectile][抛射物][542]
+[computer keyboard][电脑键盘][543]
+[typewriter keyboard][打字机键盘][544]
+[crane][起重机][545]
+[lighter][打火机][546]
+[abacus][算盘][547]
+[cash machine][自动取款机][548]
+[slide rule][滑动规则][549]
+[desktop computer][台式电脑][550]
+[hand-held computer][手提电脑][551]
+[notebook][笔记本][552]
+[web site][网站][553]
+[harvester][收割机][554]
+[thresher][脱粒机][555]
+[printer][打印机][556]
+[slot][插槽][557]
+[vending machine][售货机][558]
+[sewing machine][缝纫机][559]
+[joystick][操纵杆][560]
+[switch][开关][561]
+[hook][钩][562]
+[car wheel][车轮][563]
+[paddlewheel][桨轮][564]
+[pinwheel][风车][565]
+[potter's wheel][陶轮][566]
+[gas pump][加油站][567]
+[carousel][圆盘传送带][568]
+[swing][摇摆][569]
+[reel][卷轴][570]
+[radiator][散热器][571]
+[puck][冰球][572]
+[hard disc][硬盘][573]
+[sunglass][太阳镜][574]
+[pick][挑][575]
+[car mirror][车镜][576]
+[solar dish][太阳能盘][577]
+[remote control][遥控][578]
+[disk brake][盘式制动器][579]
+[buckle][扣][580]
+[hair slide][头发幻灯片][581]
+[knot][结][582]
+[combination lock][密码锁][583]
+[padlock][挂锁][584]
+[nail][钉][585]
+[safety pin][安全销][586]
+[screw][拧][587]
+[muzzle][枪口][588]
+[seat belt][安全带][589]
+[ski][滑雪][590]
+[candle][蜡烛][591]
+[jack-o'-lantern][鬼火][592]
+[spotlight][聚光灯][593]
+[torch][火炬][594]
+[neck brace][颈部大括号][595]
+[pier][码头][596]
+[tripod][鼎][597]
+[maypole][五朔节花柱][598]
+[mousetrap][捕鼠器][599]
+[spider web][蜘蛛网][600]
+[trilobite][三叶虫][601]
+[harvestman][肓蜘][602]
+[scorpion][蝎][603]
+[black and gold garden spider][黑色和金色花园蜘蛛][604]
+[barn spider][谷仓蜘蛛][605]
+[garden spider][花园蜘蛛][606]
+[black widow][黑寡妇][607]
+[tarantula][狼蛛][608]
+[wolf spider][狼蜘蛛][609]
+[tick][蜱][610]
+[centipede][蜈][611]
+[isopod][等足][612]
+[Dungeness crab][珍宝蟹][613]
+[rock crab][岩蟹][614]
+[fiddler crab][小提琴蟹][615]
+[king crab][鲎][616]
+[American lobster][美国龙虾][617]
+[spiny lobster][多刺龙虾][618]
+[crayfish][小龙虾][619]
+[hermit crab][寄居蟹][620]
+[tiger beetle][虎甲虫][621]
+[ladybug][瓢虫][622]
+[ground beetle][地面甲虫][623]
+[long-horned beetle][长角甲虫][624]
+[leaf beetle][叶甲虫][625]
+[dung beetle][粪甲虫][626]
+[rhinoceros beetle][犀牛甲虫][627]
+[weevil][象鼻虫][628]
+[fly][飞][629]
+[bee][蜜蜂][630]
+[grasshopper][蚱蜢][631]
+[cricket][蟋蟀][632]
+[walking stick][拐杖][633]
+[cockroach][蟑螂][634]
+[mantis][螂][635]
+[cicada][蝉][636]
+[leafhopper][叶蝉][637]
+[lacewing][草蛉][638]
+[dragonfly][蜻蜓][639]
+[damselfly][豆娘][640]
+[admiral][上将][641]
+[ringlet][小环][642]
+[monarch][君主][643]
+[cabbage butterfly][菜粉蝶][644]
+[sulphur butterfly][硫磺蝴蝶][645]
+[lycaenid][灰蝶][646]
+[jellyfish][海蜇][647]
+[sea anemone][海葵][648]
+[brain coral][脑珊瑚][649]
+[flatworm][扁虫][650]
+[nematode][线虫][651]
+[conch][海螺][652]
+[snail][蜗牛][653]
+[slug][金属块][654]
+[sea slug][海蛞蝓][655]
+[chiton][宽大长袍][656]
+[sea urchin][海胆][657]
+[sea cucumber][海参][658]
+[iron][铁][659]
+[espresso maker][浓缩咖啡机][660]
+[microwave][微波][661]
+[Dutch oven][荷兰烤箱][662]
+[rotisserie][烤肉店][663]
+[toaster][烤面包机][664]
+[waffle iron][华夫饼铁][665]
+[vacuum][真空][666]
+[dishwasher][洗碗机][667]
+[refrigerator][冰箱][668]
+[washer][垫圈][669]
+[Crock Pot][缸罐][670]
+[frying pan][平底锅][671]
+[wok][炒锅][672]
+[caldron][甑][673]
+[coffeepot][咖啡壶][674]
+[teapot][茶壶][675]
+[spatula][抹刀][676]
+[altar][坛][677]
+[triumphal arch][凯旋门][678]
+[patio][庭院][679]
+[steel arch bridge][钢拱桥][680]
+[suspension bridge][吊桥][681]
+[viaduct][高架桥][682]
+[barn][谷仓][683]
+[greenhouse][温室][684]
+[palace][宫][685]
+[monastery][修道院][686]
+[library][图书馆][687]
+[apiary][蜂房][688]
+[boathouse][船屋][689]
+[church][教会][690]
+[mosque][清真寺][691]
+[stupa][佛塔][692]
+[planetarium][天文馆][693]
+[restaurant][餐厅][694]
+[cinema][电影][695]
+[home theater][家庭电影院][696]
+[lumbermill][伐木场][697]
+[coil][盘][698]
+[obelisk][方尖碑][699]
+[totem pole][图腾柱][700]
+[castle][城堡][701]
+[prison][监狱][702]
+[grocery store][杂货店][703]
+[bakery][面包店][704]
+[barbershop][理发店][705]
+[bookshop][书店][706]
+[butcher shop][肉店][707]
+[confectionery][糕饼][708]
+[shoe shop][鞋店][709]
+[tobacco shop][烟草店][710]
+[toyshop][玩具店][711]
+[fountain][喷泉][712]
+[cliff dwelling][悬崖住宅][713]
+[yurt][蒙古包][714]
+[dock][码头][715]
+[brass][黄铜][716]
+[megalith][巨石][717]
+[bannister][栏干][718]
+[breakwater][矶][719]
+[dam][坝][720]
+[chainlink fence][链接围栏][721]
+[picket fence][栅栏栅栏][722]
+[worm fence][虫栅栏][723]
+[stone wall][石墙][724]
+[grille][进气格栅][725]
+[sliding door][滑行门][726]
+[turnstile][旋转门][727]
+[mountain tent][山帐篷][728]
+[scoreboard][记分牌][729]
+[honeycomb][蜂窝][730]
+[plate rack][板架][731]
+[pedestal][座][732]
+[beacon][烽火][733]
+[mashed potato][土豆泥][734]
+[bell pepper][灯笼椒][735]
+[head cabbage][头白菜][736]
+[broccoli][西兰花][737]
+[cauliflower][菜花][738]
+[zucchini][夏南瓜][739]
+[spaghetti squash][意粉南瓜][740]
+[acorn squash][橡子南瓜][741]
+[butternut squash][胡桃南瓜][742]
+[cucumber][黄瓜][743]
+[artichoke][朝鲜蓟][744]
+[cardoon][刺苞菜蓟][745]
+[mushroom][蘑菇][746]
+[shower curtain][浴帘][747]
+[jean][牛仔][748]
+[carton][纸板箱][749]
+[handkerchief][手帕][750]
+[sandal][檀香][751]
+[ashcan][垃圾桶][752]
+[safe][安全][753]
+[plate][盘子][754]
+[necklace][项链][755]
+[croquet ball][槌球][756]
+[fur coat][皮毛大衣][757]
+[thimble][顶针][758]
+[pajama][睡衣][759]
+[running shoe][跑鞋][760]
+[cocktail shaker][鸡尾酒摇床][761]
+[chest][胸部][762]
+[manhole cover][人孔盖][763]
+[modem][调制解调器][764]
+[tub][桶][765]
+[tray][托盘][766]
+[balance beam][平衡木][767]
+[bagel][面包圈][768]
+[prayer rug][祈祷地毯][769]
+[kimono][和服][770]
+[hot pot][火锅][771]
+[whiskey jug][威士忌酒壶][772]
+[knee pad][护膝][773]
+[book jacket][书夹克][774]
+[spindle][纺锤][775]
+[ski mask][滑雪面具][776]
+[beer bottle][啤酒瓶][777]
+[crash helmet][碰头盔][778]
+[bottlecap][瓶盖][779]
+[tile roof][瓦屋顶][780]
+[mask][面具][781]
+[maillot][运动衣][782]
+[Petri dish][培养皿][783]
+[football helmet][足球头盔][784]
+[bathing cap][洗澡帽][785]
+[teddy bear][泰迪熊][786]
+[holster][皮套][787]
+[pop bottle][流行瓶][788]
+[photocopier][复印机][789]
+[vestment][法衣][790]
+[crossword puzzle][填字游戏][791]
+[golf ball][高尔夫球][792]
+[trifle][琐事][793]
+[suit][适合][794]
+[water tower][水塔][795]
+[feather boa][羽毛围巾][796]
+[cloak][披风][797]
+[red wine][红酒][798]
+[drumstick][鼓槌][799]
+[shield][屏蔽][800]
+[Christmas stocking][圣诞袜][801]
+[hoopskirt][圈環裙][802]
+[menu][菜单][803]
+[stage][阶段][804]
+[bonnet][帽子][805]
+[meat loaf][肉饼][806]
+[baseball][棒球][807]
+[face powder][香粉][808]
+[scabbard][刀鞘][809]
+[sunscreen][防晒][810]
+[beer glass][啤酒杯][811]
+[hen-of-the-woods][母鸡的最树林][812]
+[guacamole][鳄梨][813]
+[lampshade][灯罩][814]
+[wool][羊毛][815]
+[hay][干草][816]
+[bow tie][领结][817]
+[mailbag][邮袋][818]
+[water jug][水壶][819]
+[bucket][桶][820]
+[dishrag][抹布][821]
+[soup bowl][汤碗][822]
+[eggnog][蛋酒][823]
+[mortar][砂浆][824]
+[trench coat][风衣][825]
+[paddle][桨][826]
+[chain][链][827]
+[swab][拖把][828]
+[mixing bowl][搅拌碗][829]
+[potpie][锅饼][830]
+[wine bottle][酒瓶][831]
+[shoji][商事][832]
+[bulletproof vest][防弹背心][833]
+[drilling platform][钻井平台][834]
+[binder][粘合剂][835]
+[cardigan][羊毛衣][836]
+[sweatshirt][运动衫][837]
+[pot][锅][838]
+[birdhouse][禽舍][839]
+[hamper][阻碍][840]
+[ping-pong ball][乒乓球][841]
+[pencil box][铅笔盒][842]
+[pay-phone][付费电话][843]
+[consomme][清汤][844]
+[apron][围裙][845]
+[punching bag][出气筒][846]
+[backpack][背包][847]
+[groom][马夫][848]
+[bearskin][熊皮][849]
+[pencil sharpener][卷笔刀][850]
+[broom][扫帚][851]
+[mosquito net][蚊帐][852]
+[abaya][阿巴亚][853]
+[mortarboard][砂浆板][854]
+[poncho][雨披][855]
+[crutch][拐杖][856]
+[Polaroid camera][宝丽来相机][857]
+[space bar][空格吧][858]
+[cup][杯子][859]
+[racket][球拍][860]
+[traffic light][红绿灯][861]
+[quill][鹅毛笔][862]
+[radio][无线电][863]
+[dough][面团][864]
+[cuirass][胸甲][865]
+[military uniform][军装][866]
+[lipstick][口红][867]
+[shower cap][浴帽][868]
+[monitor][监控][869]
+[oscilloscope][示波器][870]
+[mitten][手套][871]
+[brassiere][乳罩][872]
+[French loaf][法式面包][873]
+[vase][花瓶][874]
+[milk can][牛奶可以][875]
+[rugby ball][橄榄球][876]
+[paper towel][纸巾][877]
+[earthstar][某种蘑菇][878]
+[envelope][信封][879]
+[miniskirt][迷你裙][880]
+[cowboy hat][牛仔帽][881]
+[trolleybus][电车][882]
+[perfume][香水][883]
+[bathtub][浴缸][884]
+[hotdog][热狗][885]
+[coral fungus][珊瑚真菌][886]
+[bullet train][子弹头列车][887]
+[pillow][枕头][888]
+[toilet tissue][卫生纸][889]
+[cassette][暗盒][890]
+[carpenter's kit][木匠套装][891]
+[ladle][瓢][892]
+[stinkhorn][鬼筆][893]
+[lotion][洗剂][894]
+[hair spray][发胶][895]
+[academic gown][学术礼服][896]
+[dome][拱顶][897]
+[crate][箱][898]
+[wig][假发][899]
+[burrito][卷饼][900]
+[pill bottle][药瓶][901]
+[chain mail][连锁邮件][902]
+[theater curtain][剧院幕][903]
+[window shade][窗帘][904]
+[barrel][桶][905]
+[washbasin][脸盆][906]
+[ballpoint][圆珠笔][907]
+[basketball][篮球][908]
+[bath towel][浴巾][909]
+[cowboy boot][牛仔靴][910]
+[gown][袍][911]
+[window screen][窗口屏幕][912]
+[agaric][伞菌][913]
+[cellular telephone][蜂窝电话][914]
+[nipple][乳头][915]
+[barbell][杠铃][916]
+[mailbox][邮箱][917]
+[lab coat][实验工作服][918]
+[fire screen][防火屏][919]
+[minibus][小巴][920]
+[packet][包][921]
+[maze][迷宫][922]
+[pole][极][923]
+[horizontal bar][单杠][924]
+[sombrero][宽边帽][925]
+[pickelhaube][钉盔][926]
+[rain barrel][雨桶][927]
+[wallet][钱包][928]
+[cassette player][卡带机][929]
+[comic book][漫画书][930]
+[piggy bank][储钱罐][931]
+[street sign][街道路标][932]
+[bell cote][铃铛][933]
+[fountain pen][钢笔][934]
+[Windsor tie][温莎领带][935]
+[volleyball][排球][936]
+[overskirt][罩裙][937]
+[sarong][纱笼][938]
+[purse][钱包][939]
+[bolo tie][布罗领带][940]
+[bib][围兜][941]
+[parachute][降落伞][942]
+[sleeping bag][睡袋][943]
+[television][电视][944]
+[swimming trunks][游泳裤][945]
+[measuring cup][量杯][946]
+[espresso][浓咖啡][947]
+[pizza][比萨][948]
+[breastplate][护胸甲][949]
+[shopping basket][购物篮][950]
+[wooden spoon][木勺子][951]
+[saltshaker][食盐瓶][952]
+[chocolate sauce][巧克力酱][953]
+[ballplayer][球坛][954]
+[goblet][高脚杯][955]
+[gyromitra][浸漬鹿花菌][956]
+[stretcher][担架][957]
+[water bottle][水瓶][958]
+[dial telephone][拨打电话][959]
+[soap dispenser][皂液器][960]
+[jersey][球衣][961]
+[school bus][校车][962]
+[jigsaw puzzle][拼图游戏][963]
+[plastic bag][塑料袋][964]
+[reflex camera][反光相机][965]
+[diaper][尿布][966]
+[Band Aid][创可贴][967]
+[ice lolly][冰棒][968]
+[velvet][丝绒][969]
+[tennis ball][网球][970]
+[gasmask][防毒面具][971]
+[doormat][门垫][972]
+[Loafer][浪子][973]
+[ice cream][冰淇淋][974]
+[pretzel][椒盐卷饼][975]
+[quilt][被子][976]
+[maillot][运动衣][977]
+[tape player][磁带机][978]
+[clog][阻塞][979]
+[iPod][iPod的][980]
+[bolete][牛肝菌][981]
+[scuba diver][潜水员][982]
+[pitcher][投手][983]
+[matchstick][火柴][984]
+[bikini][比基尼泳装][985]
+[sock][袜子][986]
+[CD player][光碟播放器][987]
+[lens cap][镜头盖][988]
+[thatch][苫][989]
+[vault][拱顶][990]
+[beaker][烧杯][991]
+[bubble][泡沫][992]
+[cheeseburger][乳酪汉堡][993]
+[parallel bars][双杠][994]
+[flagpole][旗杆][995]
+[coffee mug][咖啡杯][996]
+[rubber eraser][橡皮擦][997]
+[stole][披肩][998]
+[carbonara][培根蛋面][999]
+[dumbbell][哑铃][1000]
